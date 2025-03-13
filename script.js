@@ -3,3 +3,5 @@ function togglemode() {
 
     html.classList.toggle('light')
 }
+
+console.log("monteiro mexeu aqui")
